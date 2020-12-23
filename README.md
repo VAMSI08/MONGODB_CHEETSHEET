@@ -1,5 +1,3 @@
-# MONGODB_CHEETSHEET
-
 # MongoDB Cheat Sheet
 
 ## Show All Databases
